@@ -1,0 +1,8 @@
+> Loaded enrolled.db
+> Loaded schedule.db
+> > Contents of enrolled2:
+  101
+  102
+  104
+  105
+  106

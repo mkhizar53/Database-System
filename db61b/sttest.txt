@@ -1,0 +1,3 @@
+create table Classes ('SID', 'Lastname', 'Firstname', 'SemEnter', 'YearEnter', 'Major');
+insert into Classes values ('101', 'Knowles', 'Jason', 'F', '2003', 'EECS'), ('102', 'Chan', 'Valerie', 'S', '2003', 'Math');
+store Classes;
